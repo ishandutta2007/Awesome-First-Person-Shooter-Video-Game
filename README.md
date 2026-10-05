@@ -57,9 +57,9 @@ Below is a breakdown of major commercial FPS titles, organized by company revenu
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore production-grade open-source FPS games and game engine projects. Ranked by **GitHub Star Count (descending)**.
+Explore production-grade open-source FPS games and game engine projects. Ranked by **GitHub Stars_Count (descending)**.
 
-| Star Badge 🌟 | Repository / Engine 🚀 | Description & Features 📜 | License 📄 |
+| Stars_Badge 🌟 | Repository / Engine 🚀 | Description & Features 📜 | License 📄 |
 | :---: | :--- | :--- | :---: |
 | [![Stars](https://img.shields.io/github/stars/id-Software/DOOM?style=social&color=white)](https://github.com/id-Software/DOOM/stargazers) | **[id-Software/DOOM](https://github.com/id-Software/DOOM)** | The original 1993 classic DOOM source code release that defined the FPS genre. 👾 | GPL-2.0 |
 | [![Stars](https://img.shields.io/github/stars/id-Software/Quake-III-Arena?style=social&color=white)](https://github.com/id-Software/Quake-III-Arena/stargazers) | **[id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena)** | Legendary Quake III Arena source code by John Carmack, the foundation for modern 3D multiplayer engines. ⚡ | GPL-2.0 |
